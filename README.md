@@ -21,12 +21,14 @@ Unity
 - Het staat gelijk met unreal / zijn allebij even goed.  
 - Unity is beter voor 2d games.  
 - Unity heeft een grotere active community.
+- C# scripts of javascript
 
 Unreal Engine  
 - Is lastig te begrijpen om met de omgeving te werken.  
 - Het is net zo goed als unity / zijn allebij net zo goed.  
 - Unreal is beter voor 3d games.  
 - Unreal heeft een iets kleinere active community.
+- Unreal heeft alleen c++ of hun eigen blueprint systeem
 
 Godot  
 - ik heb niet zoveel ervaring met godot.  
@@ -34,11 +36,9 @@ Godot
 - het is over het algemeen minder goed dan unity.  
 - het is beter met 2d dan unreal.  
 
-maar omdat ik meer ervaring heb in unity en niet genoeg met godot en unreal.  
-ook omdat ik denk dat het met unreal en godot in deze tijd niet gaat redden
-daarom kies ik voor unity.
-
-// noem iets wat in de ene engine niet of wel kan
+Omdat ik weinig ervaring heb met unreal of c++ is het nu tussen godot of unity.  
+Maar omdat ik meer ervaring heb in unity en niet genoeg met godot kies ik voor unity.   
+Dit kies ik omdat ik meer tijd wil besteden aan de opdracht zelf en niet het leren van de engine.  
 
 ## Leerdoelen
 ### Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
