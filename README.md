@@ -11,7 +11,7 @@
 
 Het spawned niet boven op elkaar.  
 - [De roomspawner](generatedungeon/Assets/Scripts/RoomSpawner.cs)  
-- [De prefabs](generatedungeon/Assets/Prefabs/) 
+- [De prefabs](generatedungeon/Assets/prefabs/) 
 
 ## Software Anaylse
 ### Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
