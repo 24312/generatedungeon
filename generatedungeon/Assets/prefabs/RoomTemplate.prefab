@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2981649963039201121
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2981649963039201119}
+  - component: {fileID: 2981649963039201120}
+  m_Layer: 0
+  m_Name: RoomTemplate
+  m_TagString: Rooms
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2981649963039201119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2981649963039201121}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2981649963039201120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2981649963039201121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7d221f8501ea74888ea8ec5b9f3188, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Botrooms:
+  - {fileID: 6426596759653791160, guid: 61e0693dbb1852545b991d9e624b9c60, type: 3}
+  - {fileID: 3940844310757345328, guid: b2fffb941a02b2149b09b872411afe12, type: 3}
+  Toprooms:
+  - {fileID: 2926362843918308627, guid: 18079251d21736b4ab865dde29707ab2, type: 3}
+  - {fileID: 1784667871167842136, guid: d79b1e2baa3e72249ad46f7c5ac2c0b9, type: 3}
+  - {fileID: 4572328976269206129, guid: c6273a85cc54d114297cd673a3253cc3, type: 3}
+  - {fileID: 3940844310757345328, guid: b2fffb941a02b2149b09b872411afe12, type: 3}
+  Leftrooms:
+  - {fileID: 3055726077957035277, guid: f739106723c036b40a19f4a176014d61, type: 3}
+  - {fileID: 4572328976269206129, guid: c6273a85cc54d114297cd673a3253cc3, type: 3}
+  - {fileID: 8248559766667731705, guid: 1780f21b038f96e41b4cfb0436da6de4, type: 3}
+  Rightrooms:
+  - {fileID: 8534484233794396709, guid: ce7881333006b0f4cae9bdd079b66696, type: 3}
+  - {fileID: 1784667871167842136, guid: d79b1e2baa3e72249ad46f7c5ac2c0b9, type: 3}
+  - {fileID: 8248559766667731705, guid: 1780f21b038f96e41b4cfb0436da6de4, type: 3}
